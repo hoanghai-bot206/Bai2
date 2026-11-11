@@ -1,4 +1,5 @@
 Bài 2 — Ứng dụng Node.js đầu tiên
+
 CÁCH CHẠY
 
 Bước 1: Mở Visual Studio Code (VS Code).
