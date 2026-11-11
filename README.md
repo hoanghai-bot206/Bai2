@@ -1,1 +1,1 @@
-# Bai2
+# Bài 2 — Ứng dụng Node.js đầu tiên
