@@ -1,5 +1,6 @@
 Bài 2 — Ứng dụng Node.js đầu tiên
-1. CÁCH CHẠY
+CÁCH CHẠY
+
 Bước 1: Mở Visual Studio Code (VS Code).
 
 Bước 2: Tạo Folder để lưu trữ chương trình Node.js.
